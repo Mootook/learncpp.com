@@ -1,6 +1,6 @@
 # learncpp.com
 
-Source code for learncpp.com tutorials and readings. Part of independent studies repo (see website)
+Source code for [learncpp.com](https://www.learncpp.com/) tutorials and readings. Part of independent studies repo (see website)
 
 Repository to store all answers to quizzes and notes for the learncpp.com tutorial series.
 
